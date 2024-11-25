@@ -2,6 +2,8 @@
 Analyze data and get informed decision on the grants allocated to businesses by govenrment
 
 
+![](govt_grant.jpg)
+
 ## INTRODUCTION 
 Money and business go hand in hand as money is the only way business can be developed. So that’s where government grants come into the picture for companies, business owners and their likes.
 Government grants are a critical tool in fostering business growth, innovation, and stability. These grants help businesses progress from inception to sustainability, often providing the initial support required to bridge the gap between ideas and actionable results. In this dataset, we explore how the U.S. government allocated grants to businesses, focusing on how, who, and where the funds were distributed. Below is a detailed breakdown of the objectives for the grant.
@@ -34,6 +36,8 @@ The U.S. government's grants to businesses have proven instrumental in stabilizi
 
 ## TOOLS  USED 
 Power bi - cleaning, analyzing and visualization of the dataset
+
+   ![](
 
 ## Data Source and Cleaning Process
 ### Data Source
@@ -77,6 +81,8 @@ Upton- $60,407,354
 
 Brooklyn- $54,342,163
 
+![](top_cities.png)
+
 
 Bottom 5 Contractor cities
 AK-$48,497
@@ -88,6 +94,8 @@ LA- $22,500
 MO- $50,000
 
 MS- $50,000
+
+![](bottom_cities.png)
 
 ## ANALYSIS FOR 2023
 This document outlines the fluctuations in the award money disbursed throughout the year 2023, along with the final distribution across various application categories. The data covers the award amounts for each month and provides insight into how the funds were allocated across different areas of focus.
@@ -205,6 +213,8 @@ Conclusions
 4.	Diverse Stakeholder Involvement: A wide range of entities, including universities, laboratories, corporations, and municipalities, participated in the funding, although the contribution to government-related projects was minimal (0.31%).
 5.	Strategic Investments in Product Development: Despite receiving only 20.69%, the allocation to product development indicates a balanced focus on advancing technologies for market readiness.
 
+![](analysis_pics.png)
+
    
 
   ## Award Money Disbursement Overview for 2024
@@ -212,15 +222,24 @@ The award money disbursed in 2024 totaled $22,408,811, distributed across variou
 ________________________________________
 Monthly Award Money Disbursement
 The total award money was disbursed as follows:
-Month	Award Money (USD)	                        Percentage of Total (%)
-January	                       $1,106,578          	4.94%
-February	                     $961,158	            4.29%
-March	                         $6,806,000	          30.37%
-April	$1,916,316	8.56%
-May	$800,000	3.57%
-June	$800,000	3.57%
-July	$1,989,019	8.87%
-August	$1,529,740	6.83%
+Month	                     Award Money (USD)	        Percentage of Total (%)
+
+January	                    $1,106,578          	  4.94%
+
+February	                    $961,158	              4.29%
+
+March	                       $6,806,000	          30.37%
+
+April	                       $1,916,316	          8.56%
+
+May	                       $800,000	             3.57%
+
+June	                       $800,000            	 3.57%
+
+July	                       $1,989,019	          8.87%
+
+August	                    $1,529,740	          6.83%
+
 Key Observations:
 1.	March received the highest allocation of $6,806,000, constituting 30.37% of the total award money.
 2.	July ($1,989,019) and April ($1,916,316) were the next largest recipients, contributing 8.87% and 8.56%, respectively.
@@ -228,14 +247,22 @@ Key Observations:
 4.	Other months, such as May and June, received only 3.57% each, suggesting a more targeted approach during certain periods.
 ________________________________________
 Award Money Allocation by Contractor Type
-Contractor Type	Award Money (USD)	Percentage of Total (%)
-Utility	$8,000,000	35.71%
-University	$5,746,227	25.65%
-Early-stage Company	$5,369,818	23.96%
-Laboratory/Research Center	$2,889,108	12.89%
-Consultant	$400,000	1.79%
-Industry Trade Association	$399,928	1.79%
-Corporate	$103,730	0.46%
+Contractor Type	          Award Money (USD)	      Percentage of Total (%)
+
+Utility	                    $8,000,000	              35.71%
+
+University	                 $5,746,227	              25.65%
+
+Early-stage Company	        $5,369,818	              23.96%
+
+Laboratory/Research Center	  $2,889,108	              12.89%
+
+Consultant	                 $400,000	                 1.79%
+
+Industry Trade Association	  $399,928	                 1.79%
+
+Corporate	                 $103,730	                 0.46%
+
 Key Observations:
 1.	Utilities received the highest allocation ($8 million), making up 35.71% of the total. This reflects a significant focus on infrastructure and utility-based projects.
 2.	Universities and early-stage companies were the next largest recipients, collectively accounting for 49.61% of the total disbursement. This highlights a strong emphasis on academic and entrepreneurial innovation.
@@ -243,23 +270,33 @@ Key Observations:
 4.	Smaller contributions were made to consultants, industry trade associations, and corporate entities, collectively accounting for just 4.04%, signifying a focus on larger-scale projects.
 ________________________________________
 Award Money Allocation by Project Type
-Project Type	Award Money (USD)	Percentage of Total (%)
-Demonstration	$11,498,838	51.31%
-Ecosystem	$4,500,000	20.08%
-Product Development	$2,933,556	13.09%
-Research Study	$1,999,839	8.93%
-Technology Feasibility	$1,496,578	6.68%
+Project Type	           Award Money (USD)	             Percentage of Total (%)
+
+Demonstration	             $11,498,838	                  51.31%
+
+Ecosystem	                $4,500,000	                     20.08%
+
+Product Development	       $2,933,556	                     13.09%
+
+Research Study	             $1,999,839	                      8.93%
+
+Technology Feasibility	    $1,496,578	                      6.68%
+
 Key Observations:
+
 1.	Demonstration projects dominated the allocation, receiving 51.31% of the total award money. This reflects a strong emphasis on practical applications and large-scale implementations.
 2.	Ecosystem development followed with 20.08%, highlighting efforts to build interconnected systems and frameworks.
 3.	Product development accounted for 13.09%, demonstrating continued support for advancing technology into market-ready solutions.
 4.	Research studies and technology feasibility assessments received 8.93% and 6.68%, respectively, indicating sustained investment in exploratory and preparatory projects.
 ________________________________________
 Conclusion
+
 1.	Increased Funding in 2024: The total award money for 2024 ($22.4 million) reflects a notable increase compared to 2023. The concentration of funds in March, July, and April indicates a strategic emphasis on key periods of activity.
 2.	Contractor Type Priorities: Utilities, universities, and early-stage companies received the bulk of the funds, aligning with priorities in innovation, infrastructure, and academia. Smaller allocations to consultants and corporates suggest a selective approach to smaller-scale engagements.
 3.	Project Type Focus: Demonstration projects received over half of the total funds, emphasizing practical implementation. Significant investment in ecosystem development and product innovation further demonstrates a focus on large-scale and interconnected solutions.
 4.	Targeted Disbursement Strategy: The data suggests a strategic approach to funding, with a clear prioritization of impactful and scalable projects. This aligns with broader goals to drive innovation, research, and development across key sectors.
+
+![](analysis.png)
 
 
 
