@@ -69,17 +69,16 @@ This cleaning process established a robust foundation for meaningful insights an
 
 ## GENERAL ANALYSIS
 The total grant amount disbursed by the U.S. government to businesses in this dataset is $1,251,653,786. This substantial funding reflects the government's commitment to supporting diverse sectors and addressing varied business needs.
+
 The average award amount is $430. 417, 395.5k
+
 Top five contractor cities 
-Albany - $174,447,059
 
-New York- $124,347,035
-
-Rochester- $69,994,883
-
-Upton- $60,407,354
-
-Brooklyn- $54,342,163
+Madrid
+Maine
+New Jersey
+NM
+Washington
 
 ![](top_cities.png)
 
