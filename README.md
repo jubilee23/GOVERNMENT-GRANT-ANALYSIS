@@ -40,7 +40,7 @@ Power bi - cleaning, analyzing and visualization of the dataset
    ![](
 
 ## Data Source and Cleaning Process
-### Data Source
+#### Data Source
 The dataset used in this analysis was sourced from the Data.gov platform. It contains information on government grants awarded to businesses, providing critical insights into the allocation of funds. The dataset consists of a single table with the following 11 columns:
 1.	Application ID (Unique Identifier)
 2.	Award Amount (Numerical)
@@ -53,12 +53,17 @@ The dataset used in this analysis was sourced from the Data.gov platform. It con
 9.	Current Date (Date)
 10.	Project Title (Categorical)
 11.	Project Type (Categorical)
-Data Types
+#### Data Types
 The dataset includes multiple data types:
+
 •	Categorical Data: Contractor city, contractor state, contractor street, contractor type, primary contractor name, project title, and project type.
+
 •	Numerical Data: Award amount.
+
 •	Date Data: Award date and current date.
+
 •	Unique Identifier: Application ID.
+
 ### Data Cleaning Process
 To ensure the dataset was suitable for analysis and visualization, it underwent a comprehensive cleaning process using Power BI Power Query:
 1.	Removing Duplicates: Ensured data integrity by eliminating duplicate entries.
@@ -72,27 +77,31 @@ The total grant amount disbursed by the U.S. government to businesses in this da
 
 The average award amount is $430. 417, 395.5k
 
-Top five contractor cities 
+#### Top five contractor cities 
 
-Madrid
-Maine
-New Jersey
-NM
-Washington
+Madrid-----     $2,796,600
+
+Maine------     $3,000,000
+
+New Jersey----- $11,418,038
+
+NM--------      $6,353,834
+
+Washington---   $1,500,000
 
 ![](top_cities.png)
 
 
-Bottom 5 Contractor cities
-AK-$48,497
+#### Bottom 5 Contractor cities
+AK----- $48,497
 
-IN- $20,000
+IN----- $20,000
 
-LA- $22,500
+LA----- $22,500
 
-MO- $50,000
+MO----- $50,000
 
-MS- $50,000
+MS----- $50,000
 
 ![](bottom_cities.png)
 
@@ -127,8 +136,8 @@ November	              $757,407
 
 December	              $308,225
 
-Total Award Money Disbursed in 2023:
-$31.26 million
+#### Total Award Money Disbursed in 2023:
+###### $31.26 million
 The total award money disbursed in 2023 was $31.26 million, with notable fluctuations across the months:
 1.	Highest Award Month: June ($10.8 million) - The award money in June represented 34.55% of the total disbursement, significantly surpassing all other months.
 2.	Lowest Award Month: May ($50,000) - May’s disbursement was only 0.16% of the total, highlighting a sharp contrast compared to June.
@@ -297,5 +306,5 @@ Conclusion
 
 ![](analysis.png)
 
-
-
+for a more general interaction of the dashboard from 1991-2024 click 
+https://app.powerbi.com/view?r=eyJrIjoiMTZjZTU2ODctYzgzYi00ODUwLWJmNGYtYWYzNTFkNTAzM2ZjIiwidCI6ImRkNDg0OTZkLWE3ZDEtNDhmOS05ZGRiLTA4MTJiY2Q1ZTlkNCIsImMiOjZ9
