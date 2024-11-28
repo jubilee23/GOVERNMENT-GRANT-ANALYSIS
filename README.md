@@ -89,7 +89,7 @@ NM--------      $6,353,834
 
 Washington---   $1,500,000
 
-![](top_cities.png)
+![]
 
 
 #### Bottom 5 Contractor cities
@@ -103,7 +103,7 @@ MO----- $50,000
 
 MS----- $50,000
 
-![](bottom_cities.png)
+![]
 
 ## ANALYSIS FOR 2023
 This document outlines the fluctuations in the award money disbursed throughout the year 2023, along with the final distribution across various application categories. The data covers the award amounts for each month and provides insight into how the funds were allocated across different areas of focus.
@@ -221,7 +221,7 @@ Conclusions
 4.	Diverse Stakeholder Involvement: A wide range of entities, including universities, laboratories, corporations, and municipalities, participated in the funding, although the contribution to government-related projects was minimal (0.31%).
 5.	Strategic Investments in Product Development: Despite receiving only 20.69%, the allocation to product development indicates a balanced focus on advancing technologies for market readiness.
 
-![](analysis_pics.png)
+![]
 
    
 
@@ -304,7 +304,7 @@ Conclusion
 3.	Project Type Focus: Demonstration projects received over half of the total funds, emphasizing practical implementation. Significant investment in ecosystem development and product innovation further demonstrates a focus on large-scale and interconnected solutions.
 4.	Targeted Disbursement Strategy: The data suggests a strategic approach to funding, with a clear prioritization of impactful and scalable projects. This aligns with broader goals to drive innovation, research, and development across key sectors.
 
-![](analysis.png)
+![]
 
 for a more general interaction of the dashboard from 1991-2024 click 
 https://app.powerbi.com/view?r=eyJrIjoiMTZjZTU2ODctYzgzYi00ODUwLWJmNGYtYWYzNTFkNTAzM2ZjIiwidCI6ImRkNDg0OTZkLWE3ZDEtNDhmOS05ZGRiLTA4MTJiY2Q1ZTlkNCIsImMiOjZ9
