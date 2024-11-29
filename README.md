@@ -5,7 +5,7 @@ Analyze data and get informed decision on the grants allocated to businesses by 
 ![](govt_grant.jpg)
 
 ## INTRODUCTION 
-Money and business go hand in hand as money is the only way business can be developed. So that’s where government grants come into the picture for companies, business owners and their likes.
+Money and business go hand in hand as money is the only way business can be developed. So that’s where government grants come into the picture for early stage companies, consultants, universities, utilities and consultants comes into play.
 Government grants are a critical tool in fostering business growth, innovation, and stability. These grants help businesses progress from inception to sustainability, often providing the initial support required to bridge the gap between ideas and actionable results. In this dataset, we explore how the U.S. government allocated grants to businesses, focusing on how, who, and where the funds were distributed. Below is a detailed breakdown of the objectives for the grant. 
 #### N/B This dataset spans from 1991-2024, providing a comprehensive view of the grant given by government over three(3) decades. However for the purpose of this summary, we will focus on the most recent years, 2023-2024.
 
