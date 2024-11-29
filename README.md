@@ -10,16 +10,20 @@ Government grants are a critical tool in fostering business growth, innovation, 
 #### N/B This dataset spans from 1991-2024, providing a comprehensive view of the grant given by government over three(3) decades. However for the purpose of this summary, we will focus on the most recent years, 2023-2024.
 
 ## PROJECT OBJECTIVES
-How the Grant Was Allocated
+How the Grant Was Allocated:
+
 The grants were strategically distributed across multiple categories based on business needs and project focus. Key areas include:
+
 1.	Demonstration Projects - Focused on practical implementation of business concepts, receiving the largest share of the funds.
 2.	Research and Development (R&D) - Aimed at fostering innovation and technological advancements.
 3.	Ecosystem Building - Investments in interconnected systems to support industries collectively.
 4.	Technology Feasibility - Assessing the practicality of emerging solutions before scaling.
 Allocation reflects a balanced approach, emphasizing both immediate impact and long-term innovation.
 ________________________________________
-Who the Grant Was Allocated To
+Who the Grant Was Allocated To:
+
 The recipients of the grants were diverse, ranging from small startups to large institutions. Key groups include:
+
 1.	Early-Stage Companies - Businesses in their nascent stages were prioritized to ensure a strong foundation for growth.
 2.	Universities and Research Centers - Academic institutions received significant funding to drive innovation and experimental projects.
 3.	Utilities - Focused on infrastructure and essential services, receiving the largest share of the grants.
@@ -27,12 +31,15 @@ The recipients of the grants were diverse, ranging from small startups to large 
 5.	Consultants - Engaged to provide expertise and guidance on specific projects.
 This distribution highlights the government's intent to empower a wide range of stakeholders, fostering collaboration across industries and sectors.
 ________________________________________
-Where the Grant Was Allocated
+Where the Grant Was Allocated:
+
 Grants were allocated geographically to ensure equitable development across various regions. The funds targeted:
+
 1.	Urban Areas - Investments in technology hubs and metropolitan business centers to accelerate innovation.
 2.	Rural Regions - Support for small businesses and initiatives to boost local economies.
 3.	Strategic Sectors - Specific industries critical to national growth, such as renewable energy, healthcare, and technology.
-These geographic spread underscores the government's focus on inclusive growth, ensuring no region or sector is left behind.
+4.	These geographic spread underscores the government's focus on inclusive growth, ensuring no region or sector is left behind.
+
 The U.S. government's grants to businesses have proven instrumental in stabilizing and growing enterprises across the country. By addressing how, who, and where, these grants foster innovation, build resilience, and create opportunities in diverse sectors. The insights from this dataset provide a clear picture of the government's strategic allocation, highlighting its role in supporting a thriving business ecosystem.
 
 ## TOOLS  USED 
