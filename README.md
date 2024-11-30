@@ -61,7 +61,8 @@ The dataset used in this analysis was sourced from the Data.gov platform. It con
 9.	Current Date (Date)
 10.	Project Title (Categorical)
 11.	Project Type (Categorical)
-#### Data Types
+12.	
+#### DATA TYPES
 The dataset includes multiple data types:
 
 •	Categorical Data: Contractor city, contractor state, contractor street, contractor type, primary contractor name, project title, and project type.
@@ -72,7 +73,7 @@ The dataset includes multiple data types:
 
 •	Unique Identifier: Application ID.
 
-### Data Cleaning Process
+### DATTA CLEANING PROCESS
 To ensure the dataset was suitable for analysis and visualization, it underwent a comprehensive cleaning process using Power BI Power Query:
 1.	Removing Duplicates: Ensured data integrity by eliminating duplicate entries.
 2.	Data Type Validation: Corrected and assigned appropriate data types (e.g., numerical, date, and categorical) for all columns.
@@ -85,7 +86,7 @@ The total grant amount disbursed by the U.S. government to businesses in this da
 
 The average award amount is $430. 417, 395.5k
 
-#### Top five contractor cities 
+#### TOP FIVE CONTRACTOR CITIES
 
 Madrid-----     $2,796,600
 
@@ -97,10 +98,10 @@ NM--------      $6,353,834
 
 Washington---   $1,500,000
 
-   ![](top_cities.png)
+   ![](Top_cities.png)
 
 
-#### Bottom 5 Contractor cities
+#### BOTTOM 5 CONTRACTOR CITIES
 AK----- $48,497
 
 IN----- $20,000
@@ -112,7 +113,7 @@ MO----- $50,000
 MS----- $50,000
 
 
-![](bottom_cities.png)
+![](Bottom_cities.png)
 
 
 ## ANALYSIS FOR 2023
@@ -231,7 +232,7 @@ Conclusions
 4.	Diverse Stakeholder Involvement: A wide range of entities, including universities, laboratories, corporations, and municipalities, participated in the funding, although the contribution to government-related projects was minimal (0.31%).
 5.	Strategic Investments in Product Development: Despite receiving only 20.69%, the allocation to product development indicates a balanced focus on advancing technologies for market readiness.
 
-![](Screenshot_B.png)
+![](Screenshot_A.png)
 
 
 
@@ -317,7 +318,7 @@ Conclusion
 3.	Project Type Focus: Demonstration projects received over half of the total funds, emphasizing practical implementation. Significant investment in ecosystem development and product innovation further demonstrates a focus on large-scale and interconnected solutions.
 4.	Targeted Disbursement Strategy: The data suggests a strategic approach to funding, with a clear prioritization of impactful and scalable projects. This aligns with broader goals to drive innovation, research, and development across key sectors.
 
-![](Screenshot_A.png)
+![](Screenshot_B.png)
 
 for a more in-depth analysis and to explore the entire dataset from 1991  to 2024, click on the link below to access the full dashboard
 https://app.powerbi.com/view?r=eyJrIjoiMTZjZTU2ODctYzgzYi00ODUwLWJmNGYtYWYzNTFkNTAzM2ZjIiwidCI6ImRkNDg0OTZkLWE3ZDEtNDhmOS05ZGRiLTA4MTJiY2Q1ZTlkNCIsImMiOjZ9
