@@ -81,6 +81,21 @@ To ensure the dataset was suitable for analysis and visualization, it underwent 
 4.	Final Validation: Reviewed the cleaned dataset to ensure accuracy and consistency before proceeding with any visualization or further analysis.
 This cleaning process established a robust foundation for meaningful insights and reliable visualizations.
 
+### Diagnostic Analysis Findings:
+Correlation Analysis:
+
+No strong correlation between "Application ID" and "Award Amount (US Dollars)".
+Likely, more meaningful relationships exist with categorical variables (e.g., "Contractor Type").
+Award Amount Distribution:
+
+Highly right-skewed: Most awards are small, but a few are extremely large (up to $50M).
+This suggests a few big projects receive disproportionate funding.
+Trends Over Time:
+
+Award amounts fluctuate significantly over time.
+Some periods have spikes in funding, possibly due to special programs or funding rounds.
+
+
 ## GENERAL ANALYSIS
 The total grant amount disbursed by the U.S. government to businesses in this dataset is $1,251,653,786. This substantial funding reflects the government's commitment to supporting diverse sectors and addressing varied business needs.
 
