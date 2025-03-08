@@ -250,11 +250,7 @@ Conclusions
 ![](Screenshot_A.png)
 
 
-
-
-   
-
-  ## Award Money Disbursement Overview for 2024
+## Award Money Disbursement Overview for 2024
 The award money disbursed in 2024 totaled $22,408,811, distributed across various months, contractor types, and project categories. This document outlines the breakdown and provides insights into trends and allocation priorities.
 ________________________________________
 Monthly Award Money Disbursement
