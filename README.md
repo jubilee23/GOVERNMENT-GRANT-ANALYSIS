@@ -48,7 +48,7 @@ Power bi - cleaning, analyzing and visualization of the dataset
 
 python - descriptive and diagnostic analysis
 
-   ![](POWER_BI.jpg)
+   ![](powerbi_logo.png)                                ![](python_logo.png)
 
 
 ## DESCRIPTIVE ANALYSIS
@@ -260,9 +260,6 @@ Conclusions
 4.	Diverse Stakeholder Involvement: A wide range of entities, including universities, laboratories, corporations, and municipalities, participated in the funding, although the contribution to government-related projects was minimal (0.31%).
 5.	Strategic Investments in Product Development: Despite receiving only 20.69%, the allocation to product development indicates a balanced focus on advancing technologies for market readiness.
 
-![](Screenshot_A.png)
-
-
 ## Award Money Disbursement Overview for 2024
 The award money disbursed in 2024 totaled $22,408,811, distributed across various months, contractor types, and project categories. This document outlines the breakdown and provides insights into trends and allocation priorities.
 ________________________________________
@@ -342,7 +339,5 @@ Conclusion
 3.	Project Type Focus: Demonstration projects received over half of the total funds, emphasizing practical implementation. Significant investment in ecosystem development and product innovation further demonstrates a focus on large-scale and interconnected solutions.
 4.	Targeted Disbursement Strategy: The data suggests a strategic approach to funding, with a clear prioritization of impactful and scalable projects. This aligns with broader goals to drive innovation, research, and development across key sectors.
 
-![](Screenshot_B.png)
-
 for a more in-depth analysis and to explore the entire dataset from 1991  to 2024, click on the link below to access the full dashboard
-https://app.powerbi.com/view?r=eyJrIjoiMTZjZTU2ODctYzgzYi00ODUwLWJmNGYtYWYzNTFkNTAzM2ZjIiwidCI6ImRkNDg0OTZkLWE3ZDEtNDhmOS05ZGRiLTA4MTJiY2Q1ZTlkNCIsImMiOjZ9
+<iframe title="govt grant 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTZjZTU2ODctYzgzYi00ODUwLWJmNGYtYWYzNTFkNTAzM2ZjIiwidCI6ImRkNDg0OTZkLWE3ZDEtNDhmOS05ZGRiLTA4MTJiY2Q1ZTlkNCIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
