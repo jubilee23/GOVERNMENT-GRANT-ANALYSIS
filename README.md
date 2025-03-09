@@ -44,8 +44,12 @@ The U.S. government's grants to businesses have proven instrumental in stabilizi
 
 ## TOOLS  USED 
 Power bi - cleaning, analyzing and visualization of the dataset
+python - descriptive and diagnostic analysis
 
    ![](POWER_BI.jpg)
+
+
+##DESCRIPTIVE ANALYSIS
 
 ## Data Source and Cleaning Process
 #### Data Source
@@ -96,7 +100,9 @@ Award amounts fluctuate significantly over time.
 Some periods have spikes in funding, possibly due to special programs or funding rounds.
 
 
-## GENERAL ANALYSIS
+
+
+## EXPLORATORY DATA ANALYSIS
 The total grant amount disbursed by the U.S. government to businesses in this dataset is $1,251,653,786. This substantial funding reflects the government's commitment to supporting diverse sectors and addressing varied business needs.
 
 The average award amount is $430. 417, 395.5k
