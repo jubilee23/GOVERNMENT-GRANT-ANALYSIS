@@ -49,7 +49,13 @@ python - descriptive and diagnostic analysis
    ![](POWER_BI.jpg)
 
 
-##DESCRIPTIVE ANALYSIS
+## DESCRIPTIVE ANALYSIS
+
+ ![](Descriptive_analysis_A.png)   
+ ![](Descriptive_analysis_B.png)
+ ![](Descriptive_analysis_C.png)
+ ![](Descriptive_analysis_D.png)
+ ![](Descriptive_analysis_E.png)
 
 ## Data Source and Cleaning Process
 #### Data Source
@@ -65,7 +71,8 @@ The dataset used in this analysis was sourced from the Data.gov platform. It con
 9.	Current Date (Date)
 10.	Project Title (Categorical)
 11.	Project Type (Categorical)
-12.	
+
+ 
 #### DATA TYPES
 The dataset includes multiple data types:
 
@@ -77,7 +84,7 @@ The dataset includes multiple data types:
 
 •	Unique Identifier: Application ID.
 
-### DATTA CLEANING PROCESS
+### DATA CLEANING PROCESS
 To ensure the dataset was suitable for analysis and visualization, it underwent a comprehensive cleaning process using Power BI Power Query:
 1.	Removing Duplicates: Ensured data integrity by eliminating duplicate entries.
 2.	Data Type Validation: Corrected and assigned appropriate data types (e.g., numerical, date, and categorical) for all columns.
@@ -99,6 +106,10 @@ Trends Over Time:
 Award amounts fluctuate significantly over time.
 Some periods have spikes in funding, possibly due to special programs or funding rounds.
 
+![](Diagnostic_analysis_A.png)
+![](Diagnostic_analysis_B.png)
+![](Diagnostic_analysis_C.png)
+
 
 
 
@@ -117,9 +128,7 @@ New Jersey----- $11,418,038
 
 NM--------      $6,353,834
 
-Washington---   $1,500,000
-
-   ![](Top_cities.png)
+Washington---   $1,500,0
 
 
 #### BOTTOM 5 CONTRACTOR CITIES
@@ -132,10 +141,6 @@ LA----- $22,500
 MO----- $50,000
 
 MS----- $50,000
-
-
-![](Bottom_cities.png)
-
 
 ## ANALYSIS FOR 2023
 This document outlines the fluctuations in the award money disbursed throughout the year 2023, along with the final distribution across various application categories. The data covers the award amounts for each month and provides insight into how the funds were allocated across different areas of focus.
