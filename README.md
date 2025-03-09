@@ -340,6 +340,4 @@ Conclusion
 4.	Targeted Disbursement Strategy: The data suggests a strategic approach to funding, with a clear prioritization of impactful and scalable projects. This aligns with broader goals to drive innovation, research, and development across key sectors.
 
 for a more in-depth analysis and to explore the entire dataset from 1991  to 2024, click on the link below to access the full dashboard
-https://app.powerbi.com/groups/me/reports/284fde50-1d7e-4645-a8ad-0d7a06c1019f/bcb0d0f67fb920e1534d?experience=power-bi
-
 https://app.powerbi.com/reportEmbed?reportId=284fde50-1d7e-4645-a8ad-0d7a06c1019f&autoAuth=true&ctid=dd48496d-a7d1-48f9-9ddb-0812bcd5e9d4
