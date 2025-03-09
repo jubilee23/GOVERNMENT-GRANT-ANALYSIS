@@ -45,6 +45,7 @@ The U.S. government's grants to businesses have proven instrumental in stabilizi
 
 ## TOOLS  USED 
 Power bi - cleaning, analyzing and visualization of the dataset
+
 python - descriptive and diagnostic analysis
 
    ![](POWER_BI.jpg)
